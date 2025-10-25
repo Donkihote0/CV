@@ -1,0 +1,5 @@
+# Simple custom model template for YOLOv11 - edit only if you know the architecture details.
+nc: 1
+names: ['license_plate']
+# For custom architectures, see Ultralytics model config format.
+# Usually you can use pretrained 'yolov11s' instead of defining this file.

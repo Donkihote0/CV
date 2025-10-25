@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['plate']
+
+roboflow:
+  workspace: hanoi-alhej
+  project: vietnamese-car-license-plate-qinbo
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/hanoi-alhej/vietnamese-car-license-plate-qinbo/dataset/1
