@@ -1,4 +1,4 @@
-# YOLOv11 Vietnam License Plate Recognition (Demo)
+# YOLOv11 Vietnam License Plate Recognition
 
 This archive contains a ready-to-run project scaffold for detecting Vietnamese license plates
 using YOLOv11 (Ultralytics). It's prepared for running locally on Windows with Python.
